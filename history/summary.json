@@ -10,11 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 433,
-    "timeDay": 433,
-    "timeWeek": 433,
-    "timeMonth": 433,
-    "timeYear": 433,
+    "time": 549,
+    "timeDay": 549,
+    "timeWeek": 549,
+    "timeMonth": 549,
+    "timeYear": 549,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "SSO",
+    "url": "https://sso.zeltik.es/auth/",
+    "icon": "https://favicons.githubusercontent.com/sso.zeltik.es",
+    "slug": "sso",
+    "status": "down",
+    "uptime": "8.30%",
+    "uptimeDay": "8.30%",
+    "uptimeWeek": "8.30%",
+    "uptimeMonth": "8.30%",
+    "uptimeYear": "8.30%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-07-07": 0
+    }
   }
 ]
