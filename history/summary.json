@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 831,
-    "timeDay": 831,
-    "timeWeek": 831,
-    "timeMonth": 831,
-    "timeYear": 831,
+    "time": 807,
+    "timeDay": 807,
+    "timeWeek": 807,
+    "timeMonth": 807,
+    "timeYear": 807,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/sso.zeltik.es",
     "slug": "sso",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 675,
-    "timeDay": 675,
-    "timeWeek": 675,
-    "timeMonth": 675,
-    "timeYear": 675,
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 677,
+    "timeDay": 677,
+    "timeWeek": 677,
+    "timeMonth": 677,
+    "timeYear": 677,
     "dailyMinutesDown": {
-      "2021-07-07": 99
+      "2021-07-07": 134
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/argos.zeltik.es",
     "slug": "argos",
     "status": "down",
-    "uptime": "8.14%",
-    "uptimeDay": "8.14%",
-    "uptimeWeek": "8.14%",
-    "uptimeMonth": "8.14%",
-    "uptimeYear": "8.14%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-07": 0
+      "2021-07-07": 34
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://favicons.githubusercontent.com/cortex.zeltik.es",
     "slug": "cortex",
     "status": "down",
-    "uptime": "6.30%",
-    "uptimeDay": "6.30%",
-    "uptimeWeek": "6.30%",
-    "uptimeMonth": "6.30%",
-    "uptimeYear": "6.30%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-07": 0
+      "2021-07-07": 34
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "https://oficina.twelvepadelzenter.com",
     "icon": "https://favicons.githubusercontent.com/oficina.twelvepadelzenter.com",
     "slug": "twelvepadelzenter",
-    "status": "down",
-    "uptime": "9.37%",
-    "uptimeDay": "9.37%",
-    "uptimeWeek": "9.37%",
-    "uptimeMonth": "9.37%",
-    "uptimeYear": "9.37%",
-    "time": 687,
-    "timeDay": 687,
-    "timeWeek": 687,
-    "timeMonth": 687,
-    "timeYear": 687,
+    "status": "up",
+    "uptime": "0.35%",
+    "uptimeDay": "0.35%",
+    "uptimeWeek": "0.35%",
+    "uptimeMonth": "0.35%",
+    "uptimeYear": "0.35%",
+    "time": 688,
+    "timeDay": 688,
+    "timeWeek": 688,
+    "timeMonth": 688,
+    "timeYear": 688,
     "dailyMinutesDown": {
-      "2021-07-07": 0
+      "2021-07-07": 34
     }
   },
   {
@@ -103,18 +103,18 @@
     "icon": "https://favicons.githubusercontent.com/oficina.rtsport.com",
     "slug": "rtsport",
     "status": "down",
-    "uptime": "7.59%",
-    "uptimeDay": "7.59%",
-    "uptimeWeek": "7.59%",
-    "uptimeMonth": "7.59%",
-    "uptimeYear": "7.59%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-07": 0
+      "2021-07-07": 34
     }
   }
 ]
