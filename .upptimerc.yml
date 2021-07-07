@@ -5,6 +5,8 @@ repo: statuspage # The name of this repository
 sites:
   - name: Ibertenis
     url: http://ibertenis.com
+  - name: SSO
+    url: https://sso.zeltik.es/auth/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
