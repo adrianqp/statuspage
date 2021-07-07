@@ -7,6 +7,17 @@ sites:
     url: http://ibertenis.com
   - name: SSO
     url: https://sso.zeltik.es/auth/
+    __dangerous__insecure: true
+  - name: ARGOS
+    url: https://argos.zeltik.es
+    --dangerous__insecure: true
+  - name: CORTEX
+    url: https://cortex.zeltik.es
+    __dangerous__insecure: true
+  - name: twelvepadelzenter
+    url: https://oficina.twelvepadelzenter.com
+  - name: rtsport
+    url: https://oficina.rtsport.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
