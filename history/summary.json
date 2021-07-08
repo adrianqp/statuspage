@@ -55,7 +55,7 @@
     "timeMonth": 681,
     "timeYear": 681,
     "dailyMinutesDown": {
-      "2021-07-08": 1145,
+      "2021-07-08": 1146,
       "2021-07-07": 375
     }
   },
@@ -76,7 +76,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-08": 1145,
+      "2021-07-08": 1146,
       "2021-07-07": 276
     }
   },
@@ -97,7 +97,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-08": 1145,
+      "2021-07-08": 1146,
       "2021-07-07": 276
     }
   },
@@ -181,11 +181,11 @@
     "icon": "https://favicons.githubusercontent.com/oficina.rtsport.es",
     "slug": "rtsport",
     "status": "up",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 698,
     "timeDay": 698,
     "timeWeek": 698,
