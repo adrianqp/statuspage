@@ -10,8 +10,6 @@ sites:
   - name: SSO
     url: https://sso.zeltik.es
     __dangerous__insecure: true
-    expectedStatusCodes:
-      - 403
   - name: ARGOS
     url: https://argos.zeltik.es
     __dangerous__insecure: true
