@@ -8,11 +8,13 @@ sites:
   - name: Webdeporte PRESTASHOP
     url: http://www.webdeporte.com
   - name: SSO
-    url: https://sso.zeltik.es/auth/
+    url: https://sso.zeltik.es
     __dangerous__insecure: true
+    expectedStatusCodes:
+      - 403
   - name: ARGOS
     url: https://argos.zeltik.es
-    --dangerous__insecure: true
+    __dangerous__insecure: true
   - name: CORTEX
     url: https://cortex.zeltik.es
     __dangerous__insecure: true
