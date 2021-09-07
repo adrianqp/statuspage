@@ -24,12 +24,16 @@ sites:
     url: http://188.165.243.166:8040
   - name: twelvepadelzenter
     url: https://oficina.twelvepadelzenter.com
+    product: CLUBXEST
   - name: rtsport
     url: https://oficina.rtsport.es
+    product: CLUBXEST
   - name: ureca
     url: https://oficina.ureca.es
+    product: CLUBXEST
   - name: zeltik
     url: https://oficina.zeltik.es
+    product: CLUBXEST
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
