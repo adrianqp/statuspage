@@ -10,22 +10,26 @@ sites:
   - name: SSO
     url: https://sso.zeltik.es/auth
     __dangerous__insecure: true
-  - name: ARGOS
-    url: https://argos.zeltik.es
-    __dangerous__insecure: true
-  - name: CORTEX
-    url: https://cortex.zeltik.es
-    __dangerous__insecure: true
+  #- name: ARGOS
+  #  url: https://argos.zeltik.es
+  #  __dangerous__insecure: true
+  #- name: CORTEX
+  #  url: https://cortex.zeltik.es
+  #  __dangerous__insecure: true
   - name: ODOO twelvepadelzenter
     url: http://188.165.243.166:8060
-  - name: ODOO core
-    url: http://188.165.243.166:8088
+  #- name: ODOO core
+  #  url: http://188.165.243.166:8088
   - name: ODOO tienda
     url: http://188.165.243.166:8040
   - name: twelvepadelzenter
     url: https://oficina.twelvepadelzenter.com
   - name: rtsport
     url: https://oficina.rtsport.es
+  - name: ureca
+    url: https://oficina.ureca.es
+  - name: zeltik
+    url: https://oficina.zeltik.es
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
