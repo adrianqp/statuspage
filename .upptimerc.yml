@@ -20,25 +20,25 @@ sites:
     url: http://188.165.243.166:8060
   #- name: ODOO core
   #  url: http://188.165.243.166:8088
-  - name: ODOO tienda
-    url: http://188.165.243.166:8040
+  #- name: ODOO tienda
+  #  url: http://188.165.243.166:8040
   - name: twelvepadelzenter
-    url: https://oficina.twelvepadelzenter.com
+    url: https://oficina.twelvepadelzenter.com/ht/
     product: CLUBXEST
   - name: rtsport
-    url: https://oficina.rtsport.es
+    url: https://oficina.rtsport.es/ht/
     product: CLUBXEST
   - name: ureca
-    url: https://oficina.ureca.es
+    url: https://oficina.ureca.es/ht/
     product: CLUBXEST
   - name: zeltik
-    url: https://club.zeltik.es
+    url: https://club.zeltik.es/ht/
     product: CLUBXEST
   - name: recpadel
-    url: https://oficinarecpadel.xestos.es
+    url: https://oficinarecpadel.xestos.es/ht/
     product: CLUBXEST
   - name: atlantic
-    url: https://oficina.atlantictennisacademy.com
+    url: https://oficina.atlantictennisacademy.com/ht/
     product: CLUBXEST
 
 status-website:
