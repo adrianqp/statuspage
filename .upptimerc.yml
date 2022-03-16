@@ -40,6 +40,9 @@ sites:
   - name: atlantic
     url: https://oficina.atlantictennisacademy.com/ht/
     product: CLUBXEST
+  - name: cluteca
+    url: https://oficina.cluteca.com/ht
+    product: CLUBXEST
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
