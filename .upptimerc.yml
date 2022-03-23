@@ -43,6 +43,9 @@ sites:
   - name: cluteca
     url: https://oficina.cluteca.com/ht
     product: CLUBXEST
+  - name: hipica
+    url: https://hipica.xestos.com/ht
+    product: CLUBXEST
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
