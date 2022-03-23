@@ -1203,18 +1203,18 @@
     "icon": "https://favicons.githubusercontent.com/hipica.xestos.com",
     "slug": "hipica",
     "status": "down",
-    "uptime": "4.51%",
-    "uptimeDay": "4.51%",
-    "uptimeWeek": "4.51%",
-    "uptimeMonth": "4.51%",
-    "uptimeYear": "4.51%",
+    "uptime": "2.10%",
+    "uptimeDay": "2.10%",
+    "uptimeWeek": "2.10%",
+    "uptimeMonth": "2.10%",
+    "uptimeYear": "2.10%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-23": 0
+      "2022-03-23": 1
     }
   }
 ]
