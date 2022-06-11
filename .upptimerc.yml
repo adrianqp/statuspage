@@ -46,6 +46,9 @@ sites:
   - name: hipica
     url: https://hipica.xestos.com/ht
     product: CLUBXEST
+  - name: baixominho
+    url: https://oficina.baixominho.xestos.es
+    product: CLUBXEST
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
