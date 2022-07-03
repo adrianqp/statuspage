@@ -46,8 +46,8 @@ sites:
   - name: hipica
     url: https://hipica.xestos.com/ht
     product: CLUBXEST
-  - name: baixominho
-    url: https://oficina.baixominho.xestos.es
+  - name: casinocoruna
+    url: https://oficina.casinocoruna.xestos.es
     product: CLUBXEST
 
 status-website:
