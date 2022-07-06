@@ -47,7 +47,10 @@ sites:
     url: https://hipica.xestos.com/ht
     product: CLUBXEST
   - name: casinocoruna
-    url: https://oficina.casinocoruna.xestos.es
+    url: https://oficina.casinocoruna.xestos.es/ht
+    product: CLUBXEST
+  - name: mercantilvigo
+    url: https://oficina.mercantilvigo.xestos.es/ht
     product: CLUBXEST
 
 status-website:
