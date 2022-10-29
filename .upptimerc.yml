@@ -52,6 +52,10 @@ sites:
   - name: mercantilvigo
     url: https://oficina.mercantilvigo.xestos.es/ht
     product: CLUBXEST
+  - name: reservas ureca
+    url: http://reservas.ureca.es
+  - name: reservas 12zenter
+    url: http://reservas.twelvepadelzenter.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
