@@ -91,19 +91,19 @@
     "url": "http://188.165.243.166:8060",
     "icon": "https://icons.duckduckgo.com/ip3/188.165.243.166.ico",
     "slug": "odoo-twelvepadelzenter",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "94.88%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.99%",
-    "time": 298,
-    "timeDay": 0,
-    "timeWeek": 283,
-    "timeMonth": 333,
-    "timeYear": 300,
+    "uptimeDay": "94.04%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.98%",
+    "time": 299,
+    "timeDay": 522,
+    "timeWeek": 317,
+    "timeMonth": 339,
+    "timeYear": 301,
     "dailyMinutesDown": {
-      "2022-12-15": 74
+      "2022-12-15": 86
     }
   },
   {
@@ -233,7 +233,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-15": 1416,
+      "2022-12-15": 1428,
       "2022-12-14": 1440,
       "2022-12-13": 1440,
       "2022-12-12": 1440,
@@ -610,7 +610,7 @@
     "uptimeDay": "95.05%",
     "uptimeWeek": "99.29%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "48.53%",
+    "uptimeYear": "48.54%",
     "time": 624,
     "timeDay": 678,
     "timeWeek": 586,
@@ -1086,7 +1086,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-15": 1416,
+      "2022-12-15": 1428,
       "2022-12-14": 1440,
       "2022-12-13": 1440,
       "2022-12-12": 1440,
@@ -1470,7 +1470,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-15": 1416,
+      "2022-12-15": 1428,
       "2022-12-14": 1440,
       "2022-12-13": 1440,
       "2022-12-12": 1440,
@@ -1764,7 +1764,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-15": 1416,
+      "2022-12-15": 1428,
       "2022-12-14": 1440,
       "2022-12-13": 1440,
       "2022-12-12": 1440,
