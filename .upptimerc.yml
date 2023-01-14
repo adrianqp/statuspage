@@ -34,6 +34,9 @@ sites:
   - name: zeltik
     url: https://club.zeltik.es/ht/
     product: CLUBXEST
+  - name: padelbao
+    url: https://oficina.padelbao.xestos.es/ht/
+    product: CLUBXEST
   - name: recpadel
     url: https://oficinarecpadel.xestos.es/ht/
     product: CLUBXEST
